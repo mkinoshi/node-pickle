@@ -1,0 +1,20 @@
+{
+  "name": "node-pickle",
+  "version": "0.0.1",
+  "description": "Convert between JSON object and python pickled object. It reads/wrie python pickled objects to Javascript objects using promise.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "streams",
+    "node",
+    "pickle",
+    "bluebird"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.3"
+  }
+}
